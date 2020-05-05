@@ -11,7 +11,7 @@
     "serve": "gatsby serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jason",
+  "author": "Jatin Watts",
   "license": "ISC",
   "dependencies": {
     "@emotion/core": "^10.0.28",
